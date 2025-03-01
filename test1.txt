@@ -1,1 +1,2 @@
 ceci est le message du dev 1 
+le message du dev2 maintenant 
